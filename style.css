@@ -7,13 +7,13 @@
     box-sizing: border-box;
 }
 :root{
-    --color-pink: #feecea;
-    --color-white: #fff;
+    --color-pink: #eba7f6;
+    --color-white: #977de8;
     --color-black: #333;
     --color-text-pink: #FF7882;
     --color-heart: #FF7882;
     --color-bg-letter: #fff8e4;
-    --color-border: #DACCBF;
+    --color-border: #6b8a2c;
 }
 html{
     height: 100%;
